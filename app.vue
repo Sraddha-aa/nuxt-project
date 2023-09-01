@@ -1,6 +1,6 @@
 <template>
   <div>
     <NuxtWelcome />
-   <script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/108700199d84132d886c6833/script.js"></script> 
+    <script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/aff89c3e5e48bc8f53a5c41d/script.js"></script>
   </div>
 </template>
